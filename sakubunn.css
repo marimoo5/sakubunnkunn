@@ -1,0 +1,26 @@
+body {
+    background-color: #04a6eb;
+    color: #c2ffff;
+    width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 21px;
+  }
+
+  button
+  {
+    padding: 8px 20px;
+    background-color: #26557e;
+    color: #90deff;
+    border-style: none;
+    font-size: medium;
+  }
+
+  input {
+    height: 28px;
+    font-size: 15px;
+    background-color: rgb(212, 255, 255);
+    color: #3a76cf;
+  }
+  .wf-nikukyu { font-family: "Nikukyu"; }
+  
